@@ -1,0 +1,6 @@
+"token"="" # the bot's token. You can get this from https://discord.com/developers/applications
+"prefix"="!" # prefix used to denote commands
+"description"="" # a cool description
+
+[tips]
+"github_url"="" # wanna flex?
